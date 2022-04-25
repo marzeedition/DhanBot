@@ -1,11 +1,10 @@
 exports.payment = (prefix) => {
 return  `*- PAYMENT*
 
-• GOPAY : 628xx-xxxx-xxx
-• DANA : 628xx-xxxx-xxxx
-• OVO : 628xx-xxxx-xxxx
+• GOPAY : 62887-1772-190
+• DANA : 62887-1772-190
+• OVO : 62887-1772-190
 • QRIS ALLPAY : _Chat owner_
 
-_Untuk pembayaran via qris silakan chat owner untuk meminta qris_
-_Jika sudah di transfer harap kirim bukti transfer ke owner bot !!_`
+_Donate Aja Bang Gw Takut Kalo Sewa !!_`
 }
