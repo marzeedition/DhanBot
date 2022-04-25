@@ -1,10 +1,10 @@
 exports.sewabot = (prefix) => {
 return  `*- SEWAPREMIUM*
 
-• 1 MINGGU : 5.000
-• 1 BULAN : 10.000
-• PERMANEN : 15.000
+• 1 MINGGU : *Bot Ini Tidak Terima Sewa*
+• 1 BULAN : *Bot Ini Tidak Terima Sewa*
+• PERMANEN : *Bot Ini Tidak Terima Sewa*
 
-_Untuk pembayaran silakan ketik_ *${prefix}payment*
-_Untuk kalian yang minat silakan hubungin owner bot_`
+_Bot SkyBotz_
+_Sistem: Test Bot - Masukin Grup - Kelar - Jgn Lupa Izin Owner_`
 }
