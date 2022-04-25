@@ -4,5 +4,5 @@ return `*- Pesanan sedang di proses*
 jam : ${time} WIB
 tanggal : ${tanggal}
 
-_Isi sendiri_`
+_© SkyBotz_`
 }
