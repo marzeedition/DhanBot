@@ -2,10 +2,10 @@ module.exports.mess = {
 ban: 'Maaf kakak telah di banned',
 limit: 'Limit kamu sudah habis\nMainkan game untuk mendapatkan limit!',
 wait: 'Proses kak',
-eror: 'Maaf terjadi kesalahan !!',
+eror: '*ERROR 404 !!!*',
 success: 'Sukses️',
 error: {
-stick: 'Itu bukan sticker kak !!',
+stick: 'Itu bukan sticker !!',
 Iv: 'Link invalid !!'
 },
 only: {
@@ -13,6 +13,6 @@ prem: 'Fitur khusus member premium !!\nBeli premium untuk membuka fitur premium 
 group: 'Fitur khusus grup !!',
 owner: 'Fitur khusus owner !!',
 admin: 'Fitur khusus admin !!',
-Badmin: 'Silakan jadikan bot admin dulu !!'
+Badmin: 'Bot Harus Jadi Admin Jika Ingin Mrnggunakan Fitur Ini !!!'
 }
 }
