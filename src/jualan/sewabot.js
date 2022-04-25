@@ -1,10 +1,10 @@
 exports.sewabot = (prefix) => {
 return  `*- SEWABOT*
 
-• 1 MINGGU : 5.000
-• 1 BULAN : 10.000
-• PERMANEN : 15.000
+• 1 MINGGU : ....
+• 1 BULAN : ....
+• PERMANEN : ....
 
-_Untuk pembayaran silakan ketik_ *${prefix}payment*
-_Untuk kalian yang minat silakan hubungin owner bot_`
+*_Hmmmm_*
+_Gatau_ Mau Diapain`
 }
