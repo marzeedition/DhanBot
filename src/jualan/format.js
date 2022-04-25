@@ -1,5 +1,5 @@
 exports.format = (prefix) => {
 return `*- FORMAT*
 
-_Isi sendiri_`
+_© SkyBotz_`
 }
